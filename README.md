@@ -20,7 +20,7 @@ The [Developer Pack](https://education.github.com/pack) you access to free priva
 
 ## 3. VirtualBox
 
-[VirtualBox](https://www.virtualbox.org/) enables you to run a Virtual Machine on your computer. This basically means you can run Linux on your computer as if it were a program. If don't enjoy using SSH, this is an option to develop your code locally on your machine, and then transfer your code onto your school's machines to test them out.
+[VirtualBox](https://www.virtualbox.org/) enables you to run a Virtual Machine on your computer. This basically means you can run Linux on your computer as if it were a program. If you don't enjoy using SSH, this is an option to develop your code locally on your machine, and then transfer your code onto the school's machines to test them out.
 
 **Note:** Just because your program works on your machine doesn't mean it will work on the school's machines. Please test your code appropriately.
 
