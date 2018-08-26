@@ -56,4 +56,8 @@ You can either install these on a Virtual Machine, or you can dual boot your com
 
 ## 7. YouTube
 YouTube has loads of free tutorials for programming, Linux, installing software, etc. You don't have to go out and buy a book(unless you really want to) as many topics are covered on YouTube. If you're using any resources online for a school project, make sure that you include that information alongside your assignment. Make sure you contact your professor to get approval of any outside resources.
+
 - - -
+
+## 8. Coder.com
+This is a really interesting cloud-based IDE which allows you to experiment with different languages without having to install anything to your machine. The site is currently in alpha development, so the site will only get better as time progresses. There will be bugs, but it should be enough to get you started.
