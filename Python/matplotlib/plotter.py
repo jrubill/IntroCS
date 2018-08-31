@@ -1,9 +1,16 @@
-import matplotlib.pyplot as plt 
+import matplotlib.pyplot as plt
 import numpy as np
+import sys
 
 def line():
-    plt.plot([1,2,3,4])
-    plt.ylabel("Numbers")
+
+    ax = plt.subplot(111)
+    ax.spines["top"].set_visible(False)
+    ax.spines["right"].set_visible(False)
+
+    plt.ylabel("Y Axis")
+    plt.xlabel("X Axis")
+    plt.plot([1,2,3,4,6])
     plt.show()
 
 def types_of_graphs():
@@ -47,4 +54,10 @@ def pie():
     plt.show() 
 
 if __name__ == "__main__":
-    pie()
+    if len(sys.argv) > 1:
+        if sys.argv == 'line':
+            line()
+        else:
+            pie()
+    else:
+        line()
