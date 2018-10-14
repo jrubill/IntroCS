@@ -14,13 +14,13 @@ GitHub allows you to store your code online in case something were to happen to 
 
 ## 2. Student Developer Pack
    
-The [Developer Pack](https://education.github.com/pack) you access to free private repositories on GitHub, along with many other pieces of software/free trials. Apply by using your .edu email.
+The [Developer Pack](https://education.github.com/pack) gives you access to free private repositories on GitHub, along with many other pieces of software/free trials. Apply by using your .edu email.
 
 - - -
 
 ## 3. VirtualBox
 
-[VirtualBox](https://www.virtualbox.org/) enables you to run a Virtual Machine on your computer. This basically means you can run Linux on your computer as if it were a program. If you don't enjoy using SSH, this is an option to develop your code locally on your machine, and then transfer your code onto the school's machines to test them out.
+[VirtualBox](https://www.virtualbox.org/) enables you to run a Virtual Machine on your computer. This basically means you can run Linux on your computer as if it were a program. If you don't enjoy using SSH, this is an option to develop your code locally on your machine, and then transfer your code onto the school's machines to test it out.
 
 **Note:** Just because your program works on your machine doesn't mean it will work on the school's machines. Please test your code appropriately.
 
