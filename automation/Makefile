@@ -6,7 +6,7 @@ CXXFLAGS = -g -Wall -std=c++11
 
 SRC = $(wildcard *.cpp)
 
-OBJS = $(patbust %.cpp, %.o, $(SRC))
+OBJS = $(patsubst %.cpp, %.o, $(SRC))
 
 TARGET = prog
 
